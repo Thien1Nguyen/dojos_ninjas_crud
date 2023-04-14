@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Balsamiq Sans', cursive !important;
+}
+
+body{
+    background-color: black;
+}
+
+.gap-200px{
+    gap: 200px;
+}
+
+.table-w-600px{
+    width: 600px;
+}
+
+.bdr{
+    border-radius: 6px;
+    overflow: hidden;
+  }
